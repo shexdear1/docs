@@ -92,4 +92,4 @@ If this gives you can error, make sure the terminal is in the `addon-development
 
 ![Discord](/assets/img/discord.png)
 
-Feel free to explore the rest of the documentation to figure out where to go from here. You can join our [Discord server](https://discordapp.com/invite/8y35DgW) if you unsure about something.
+Feel free to explore the rest of the documentation to figure out where to go from here. You can join our [Discord server](https://discord.com/invite/W5XYw9kceU) if you unsure about something.
